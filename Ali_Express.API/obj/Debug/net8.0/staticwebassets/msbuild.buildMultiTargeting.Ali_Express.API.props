@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\Ali_Express.API.props" />
-</Project>
