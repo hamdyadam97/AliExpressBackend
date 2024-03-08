@@ -1,0 +1,11 @@
+F:\Ail_Express\Ali_Express.Models\Ali_Express.Models\bin\Debug\net8.0\Ali_Express.Models.deps.json
+F:\Ail_Express\Ali_Express.Models\Ali_Express.Models\bin\Debug\net8.0\Ali_Express.Models.dll
+F:\Ail_Express\Ali_Express.Models\Ali_Express.Models\bin\Debug\net8.0\Ali_Express.Models.pdb
+F:\Ail_Express\Ali_Express.Models\Ali_Express.Models\obj\Debug\net8.0\Ali_Express.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ail_Express\Ali_Express.Models\Ali_Express.Models\obj\Debug\net8.0\Ali_Express.Models.AssemblyInfoInputs.cache
+F:\Ail_Express\Ali_Express.Models\Ali_Express.Models\obj\Debug\net8.0\Ali_Express.Models.AssemblyInfo.cs
+F:\Ail_Express\Ali_Express.Models\Ali_Express.Models\obj\Debug\net8.0\Ali_Express.Models.csproj.CoreCompileInputs.cache
+F:\Ail_Express\Ali_Express.Models\Ali_Express.Models\obj\Debug\net8.0\Ali_Express.Models.dll
+F:\Ail_Express\Ali_Express.Models\Ali_Express.Models\obj\Debug\net8.0\refint\Ali_Express.Models.dll
+F:\Ail_Express\Ali_Express.Models\Ali_Express.Models\obj\Debug\net8.0\Ali_Express.Models.pdb
+F:\Ail_Express\Ali_Express.Models\Ali_Express.Models\obj\Debug\net8.0\ref\Ali_Express.Models.dll
