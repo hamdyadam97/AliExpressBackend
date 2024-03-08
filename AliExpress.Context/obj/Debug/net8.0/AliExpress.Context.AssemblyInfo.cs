@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AliExpress.Context")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd27356bd1754fb7cb2a6b1413c03a5d5383d79e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05b3632fb5a46c92a600a8788a55e6ddc6e61d3c")]
 [assembly: System.Reflection.AssemblyProductAttribute("AliExpress.Context")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AliExpress.Context")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
