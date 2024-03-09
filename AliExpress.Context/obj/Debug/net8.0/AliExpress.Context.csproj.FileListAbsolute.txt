@@ -34,3 +34,21 @@ F:\Ail_Express\AliExpressBackend\AliExpress.Context\obj\Debug\net8.0\refint\AliE
 F:\Ail_Express\AliExpressBackend\AliExpress.Context\obj\Debug\net8.0\AliExpress.Context.pdb
 F:\Ail_Express\AliExpressBackend\AliExpress.Context\obj\Debug\net8.0\AliExpress.Context.genruntimeconfig.cache
 F:\Ail_Express\AliExpressBackend\AliExpress.Context\obj\Debug\net8.0\ref\AliExpress.Context.dll
+E:\.Net\Final Project\AliExpressBackend\AliExpress.Context\bin\Debug\net8.0\AliExpress.Context.deps.json
+E:\.Net\Final Project\AliExpressBackend\AliExpress.Context\bin\Debug\net8.0\AliExpress.Context.runtimeconfig.json
+E:\.Net\Final Project\AliExpressBackend\AliExpress.Context\bin\Debug\net8.0\AliExpress.Context.dll
+E:\.Net\Final Project\AliExpressBackend\AliExpress.Context\bin\Debug\net8.0\AliExpress.Context.pdb
+E:\.Net\Final Project\AliExpressBackend\AliExpress.Context\bin\Debug\net8.0\AliExpress.Models.dll
+E:\.Net\Final Project\AliExpressBackend\AliExpress.Context\bin\Debug\net8.0\AliExpress.Models.pdb
+E:\.Net\Final Project\AliExpressBackend\AliExpress.Context\obj\Debug\net8.0\AliExpress.Context.csproj.AssemblyReference.cache
+E:\.Net\Final Project\AliExpressBackend\AliExpress.Context\obj\Debug\net8.0\AliExpress.Context.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net\Final Project\AliExpressBackend\AliExpress.Context\obj\Debug\net8.0\AliExpress.Context.AssemblyInfoInputs.cache
+E:\.Net\Final Project\AliExpressBackend\AliExpress.Context\obj\Debug\net8.0\AliExpress.Context.AssemblyInfo.cs
+E:\.Net\Final Project\AliExpressBackend\AliExpress.Context\obj\Debug\net8.0\AliExpress.Context.csproj.CoreCompileInputs.cache
+E:\.Net\Final Project\AliExpressBackend\AliExpress.Context\obj\Debug\net8.0\AliExpress.Context.sourcelink.json
+E:\.Net\Final Project\AliExpressBackend\AliExpress.Context\obj\Debug\net8.0\AliExpress.Context.csproj.CopyComplete
+E:\.Net\Final Project\AliExpressBackend\AliExpress.Context\obj\Debug\net8.0\AliExpress.Context.dll
+E:\.Net\Final Project\AliExpressBackend\AliExpress.Context\obj\Debug\net8.0\refint\AliExpress.Context.dll
+E:\.Net\Final Project\AliExpressBackend\AliExpress.Context\obj\Debug\net8.0\AliExpress.Context.pdb
+E:\.Net\Final Project\AliExpressBackend\AliExpress.Context\obj\Debug\net8.0\AliExpress.Context.genruntimeconfig.cache
+E:\.Net\Final Project\AliExpressBackend\AliExpress.Context\obj\Debug\net8.0\ref\AliExpress.Context.dll
