@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZxrayN1cG4hnfkQmA8Q9a5SDtIK7Z8VwjeyaRzysmbA9EA4fNpx6GR9GtTorvjywAZ3Lc5RNXCYelnsfPyIN+Q==",
+  "dgSpecHash": "DAiapY80fJDq6SvPCPY3HtWD+Djs9bUybg8oW5gMKX/EhBycMOXQnF/B4fxck4QRIxo/JcjaAJqIGqQHBBWAzA==",
   "success": true,
-  "projectFilePath": "F:\\Ail_Express\\AliExpress\\AliExpress.Api\\AliExpress.Api.csproj",
+  "projectFilePath": "F:\\Ail_Express\\AliExpressBackend\\AliExpress.Api\\AliExpress.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\7amdy\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\7amdy\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
