@@ -6,11 +6,15 @@ using System.Threading.Tasks;
 
 namespace AliExpress.Models
 {
-    public class Category: BaseEntity
+    public class Subcategory:BaseEntity
     {
+
         public string Name { get; set; }
-        public ICollection<Subcategory> Subcategories { get; set; }
-    
+        public int CategoryId { get; set; }
+
+        // Navigation property
+        public Category Category { get; set; }
+
         public virtual ICollection<ProductCategory> ProductCategories { get; set; }
     }
 }
