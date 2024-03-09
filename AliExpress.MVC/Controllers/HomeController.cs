@@ -1,4 +1,5 @@
 using AliExpress.MVC.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
@@ -13,15 +14,20 @@ namespace AliExpress.MVC.Controllers
             _logger = logger;
         }
 
+
+        [Authorize(Roles = "admin, vendor")]
         public IActionResult sales()
         {
             return View("~/Views/DashBoards/dashboard-sales.cshtml");
         }
-
+        
+        [Authorize(Roles = "admin, vendor")]
         public IActionResult finance()
         {
             return View("~/Views/DashBoards/dashboard-finance.cshtml");
         }
+
+        [Authorize(Roles = "admin, vendor")]
         public IActionResult Index()
         {
             return View("~/Views/DashBoards/Index.cshtml");

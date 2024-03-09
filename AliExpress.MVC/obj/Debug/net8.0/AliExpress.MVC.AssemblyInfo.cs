@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("AliExpress.MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c833b25d677202fd2e647a7178b829076eed303a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94e94f5555abf67914b87e34d9c3023ce555fbe0")]
 [assembly: System.Reflection.AssemblyProductAttribute("AliExpress.MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AliExpress.MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

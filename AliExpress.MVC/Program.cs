@@ -1,5 +1,6 @@
 using AliExpress.Context;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity;
 
 namespace AliExpress.MVC
 {
@@ -22,7 +23,20 @@ namespace AliExpress.MVC
                 op.UseSqlServer(builder.Configuration.GetConnectionString("ECommerceContex"));
             }, ServiceLifetime.Scoped);
 
+            builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = false)
+                        .AddRoles<IdentityRole>()
+                        .AddEntityFrameworkStores<AliExpressContext>();
 
+            
+
+
+            builder.Services.AddControllersWithViews();
+
+
+
+            //builder.Services.AddIdentity<AliExpressContext, IdentityRole>()
+            //.AddEntityFrameworkStores<AliExpressContext>()
+            //.AddDefaultTokenProviders();
 
 
 
@@ -38,6 +52,9 @@ namespace AliExpress.MVC
 
             app.UseRouting();
 
+            app.MapRazorPages(); ///
+
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.MapControllerRoute(
