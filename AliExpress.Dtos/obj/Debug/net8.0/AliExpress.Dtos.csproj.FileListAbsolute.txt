@@ -1,0 +1,12 @@
+E:\Final Project\AliExpressBackend\AliExpress.Dtos\bin\Debug\net8.0\AliExpress.Dtos.deps.json
+E:\Final Project\AliExpressBackend\AliExpress.Dtos\bin\Debug\net8.0\AliExpress.Dtos.dll
+E:\Final Project\AliExpressBackend\AliExpress.Dtos\bin\Debug\net8.0\AliExpress.Dtos.pdb
+E:\Final Project\AliExpressBackend\AliExpress.Dtos\obj\Debug\net8.0\AliExpress.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Final Project\AliExpressBackend\AliExpress.Dtos\obj\Debug\net8.0\AliExpress.Dtos.AssemblyInfoInputs.cache
+E:\Final Project\AliExpressBackend\AliExpress.Dtos\obj\Debug\net8.0\AliExpress.Dtos.AssemblyInfo.cs
+E:\Final Project\AliExpressBackend\AliExpress.Dtos\obj\Debug\net8.0\AliExpress.Dtos.csproj.CoreCompileInputs.cache
+E:\Final Project\AliExpressBackend\AliExpress.Dtos\obj\Debug\net8.0\AliExpress.Dtos.sourcelink.json
+E:\Final Project\AliExpressBackend\AliExpress.Dtos\obj\Debug\net8.0\AliExpress.Dtos.dll
+E:\Final Project\AliExpressBackend\AliExpress.Dtos\obj\Debug\net8.0\refint\AliExpress.Dtos.dll
+E:\Final Project\AliExpressBackend\AliExpress.Dtos\obj\Debug\net8.0\AliExpress.Dtos.pdb
+E:\Final Project\AliExpressBackend\AliExpress.Dtos\obj\Debug\net8.0\ref\AliExpress.Dtos.dll

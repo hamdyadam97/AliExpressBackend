@@ -10,3 +10,27 @@ F:\Ail_Express\AliExpress\AliExpress.Models\obj\Debug\net8.0\AliExpress.Models.d
 F:\Ail_Express\AliExpress\AliExpress.Models\obj\Debug\net8.0\refint\AliExpress.Models.dll
 F:\Ail_Express\AliExpress\AliExpress.Models\obj\Debug\net8.0\AliExpress.Models.pdb
 F:\Ail_Express\AliExpress\AliExpress.Models\obj\Debug\net8.0\ref\AliExpress.Models.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Models\bin\Debug\net8.0\AliExpress.Models.deps.json
+F:\Ail_Express\AliExpressBackend\AliExpress.Models\bin\Debug\net8.0\AliExpress.Models.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Models\bin\Debug\net8.0\AliExpress.Models.pdb
+F:\Ail_Express\AliExpressBackend\AliExpress.Models\obj\Debug\net8.0\AliExpress.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ail_Express\AliExpressBackend\AliExpress.Models\obj\Debug\net8.0\AliExpress.Models.AssemblyInfoInputs.cache
+F:\Ail_Express\AliExpressBackend\AliExpress.Models\obj\Debug\net8.0\AliExpress.Models.AssemblyInfo.cs
+F:\Ail_Express\AliExpressBackend\AliExpress.Models\obj\Debug\net8.0\AliExpress.Models.csproj.CoreCompileInputs.cache
+F:\Ail_Express\AliExpressBackend\AliExpress.Models\obj\Debug\net8.0\AliExpress.Models.sourcelink.json
+F:\Ail_Express\AliExpressBackend\AliExpress.Models\obj\Debug\net8.0\AliExpress.Models.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Models\obj\Debug\net8.0\refint\AliExpress.Models.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Models\obj\Debug\net8.0\AliExpress.Models.pdb
+F:\Ail_Express\AliExpressBackend\AliExpress.Models\obj\Debug\net8.0\ref\AliExpress.Models.dll
+E:\Final Project\AliExpressBackend\AliExpress.Models\bin\Debug\net8.0\AliExpress.Models.deps.json
+E:\Final Project\AliExpressBackend\AliExpress.Models\bin\Debug\net8.0\AliExpress.Models.dll
+E:\Final Project\AliExpressBackend\AliExpress.Models\bin\Debug\net8.0\AliExpress.Models.pdb
+E:\Final Project\AliExpressBackend\AliExpress.Models\obj\Debug\net8.0\AliExpress.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Final Project\AliExpressBackend\AliExpress.Models\obj\Debug\net8.0\AliExpress.Models.AssemblyInfoInputs.cache
+E:\Final Project\AliExpressBackend\AliExpress.Models\obj\Debug\net8.0\AliExpress.Models.AssemblyInfo.cs
+E:\Final Project\AliExpressBackend\AliExpress.Models\obj\Debug\net8.0\AliExpress.Models.csproj.CoreCompileInputs.cache
+E:\Final Project\AliExpressBackend\AliExpress.Models\obj\Debug\net8.0\AliExpress.Models.sourcelink.json
+E:\Final Project\AliExpressBackend\AliExpress.Models\obj\Debug\net8.0\AliExpress.Models.dll
+E:\Final Project\AliExpressBackend\AliExpress.Models\obj\Debug\net8.0\refint\AliExpress.Models.dll
+E:\Final Project\AliExpressBackend\AliExpress.Models\obj\Debug\net8.0\AliExpress.Models.pdb
+E:\Final Project\AliExpressBackend\AliExpress.Models\obj\Debug\net8.0\ref\AliExpress.Models.dll

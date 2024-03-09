@@ -16,3 +16,39 @@ F:\Ail_Express\AliExpress\AliExpress.Context\obj\Debug\net8.0\refint\AliExpress.
 F:\Ail_Express\AliExpress\AliExpress.Context\obj\Debug\net8.0\AliExpress.Context.pdb
 F:\Ail_Express\AliExpress\AliExpress.Context\obj\Debug\net8.0\AliExpress.Context.genruntimeconfig.cache
 F:\Ail_Express\AliExpress\AliExpress.Context\obj\Debug\net8.0\ref\AliExpress.Context.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Context\bin\Debug\net8.0\AliExpress.Context.deps.json
+F:\Ail_Express\AliExpressBackend\AliExpress.Context\bin\Debug\net8.0\AliExpress.Context.runtimeconfig.json
+F:\Ail_Express\AliExpressBackend\AliExpress.Context\bin\Debug\net8.0\AliExpress.Context.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Context\bin\Debug\net8.0\AliExpress.Context.pdb
+F:\Ail_Express\AliExpressBackend\AliExpress.Context\bin\Debug\net8.0\AliExpress.Models.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Context\bin\Debug\net8.0\AliExpress.Models.pdb
+F:\Ail_Express\AliExpressBackend\AliExpress.Context\obj\Debug\net8.0\AliExpress.Context.csproj.AssemblyReference.cache
+F:\Ail_Express\AliExpressBackend\AliExpress.Context\obj\Debug\net8.0\AliExpress.Context.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ail_Express\AliExpressBackend\AliExpress.Context\obj\Debug\net8.0\AliExpress.Context.AssemblyInfoInputs.cache
+F:\Ail_Express\AliExpressBackend\AliExpress.Context\obj\Debug\net8.0\AliExpress.Context.AssemblyInfo.cs
+F:\Ail_Express\AliExpressBackend\AliExpress.Context\obj\Debug\net8.0\AliExpress.Context.csproj.CoreCompileInputs.cache
+F:\Ail_Express\AliExpressBackend\AliExpress.Context\obj\Debug\net8.0\AliExpress.Context.sourcelink.json
+F:\Ail_Express\AliExpressBackend\AliExpress.Context\obj\Debug\net8.0\AliExpress.Context.csproj.CopyComplete
+F:\Ail_Express\AliExpressBackend\AliExpress.Context\obj\Debug\net8.0\AliExpress.Context.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Context\obj\Debug\net8.0\refint\AliExpress.Context.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Context\obj\Debug\net8.0\AliExpress.Context.pdb
+F:\Ail_Express\AliExpressBackend\AliExpress.Context\obj\Debug\net8.0\AliExpress.Context.genruntimeconfig.cache
+F:\Ail_Express\AliExpressBackend\AliExpress.Context\obj\Debug\net8.0\ref\AliExpress.Context.dll
+E:\Final Project\AliExpressBackend\AliExpress.Context\bin\Debug\net8.0\AliExpress.Context.deps.json
+E:\Final Project\AliExpressBackend\AliExpress.Context\bin\Debug\net8.0\AliExpress.Context.runtimeconfig.json
+E:\Final Project\AliExpressBackend\AliExpress.Context\bin\Debug\net8.0\AliExpress.Context.dll
+E:\Final Project\AliExpressBackend\AliExpress.Context\bin\Debug\net8.0\AliExpress.Context.pdb
+E:\Final Project\AliExpressBackend\AliExpress.Context\bin\Debug\net8.0\AliExpress.Models.dll
+E:\Final Project\AliExpressBackend\AliExpress.Context\bin\Debug\net8.0\AliExpress.Models.pdb
+E:\Final Project\AliExpressBackend\AliExpress.Context\obj\Debug\net8.0\AliExpress.Context.csproj.AssemblyReference.cache
+E:\Final Project\AliExpressBackend\AliExpress.Context\obj\Debug\net8.0\AliExpress.Context.GeneratedMSBuildEditorConfig.editorconfig
+E:\Final Project\AliExpressBackend\AliExpress.Context\obj\Debug\net8.0\AliExpress.Context.AssemblyInfoInputs.cache
+E:\Final Project\AliExpressBackend\AliExpress.Context\obj\Debug\net8.0\AliExpress.Context.AssemblyInfo.cs
+E:\Final Project\AliExpressBackend\AliExpress.Context\obj\Debug\net8.0\AliExpress.Context.csproj.CoreCompileInputs.cache
+E:\Final Project\AliExpressBackend\AliExpress.Context\obj\Debug\net8.0\AliExpress.Context.sourcelink.json
+E:\Final Project\AliExpressBackend\AliExpress.Context\obj\Debug\net8.0\AliExpress.Context.csproj.CopyComplete
+E:\Final Project\AliExpressBackend\AliExpress.Context\obj\Debug\net8.0\AliExpress.Context.dll
+E:\Final Project\AliExpressBackend\AliExpress.Context\obj\Debug\net8.0\refint\AliExpress.Context.dll
+E:\Final Project\AliExpressBackend\AliExpress.Context\obj\Debug\net8.0\AliExpress.Context.pdb
+E:\Final Project\AliExpressBackend\AliExpress.Context\obj\Debug\net8.0\AliExpress.Context.genruntimeconfig.cache
+E:\Final Project\AliExpressBackend\AliExpress.Context\obj\Debug\net8.0\ref\AliExpress.Context.dll

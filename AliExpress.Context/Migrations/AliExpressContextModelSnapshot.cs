@@ -37,15 +37,10 @@ namespace AliExpress.Context.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int?>("ParentCategoryId")
-                        .HasColumnType("int");
-
                     b.Property<DateTime>("UpdatedAt")
                         .HasColumnType("datetime2");
 
                     b.HasKey("Id");
-
-                    b.HasIndex("ParentCategoryId");
 
                     b.ToTable("Categories");
                 });
@@ -86,56 +81,248 @@ namespace AliExpress.Context.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+                    b.Property<string>("Accessories")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ActivityTracking")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("AgeCategoryApp")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("AppDownloadAvailable")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("AppName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("AvailableSimCard")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("BandLength")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("BandWidth")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("BatteryCapacity")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("BluetoothVersion")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("Brand")
-                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("BrandName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("BuiltInVoiceAssistant")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("CPUManufacturer")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("CPUModel")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("CaseMaterial")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Category")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Certification")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ChargingTime")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("CommunicationType")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("CompanyHistory")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Compatibility")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<DateTime>("CreatedAt")
                         .HasColumnType("datetime2");
 
-                    b.Property<string>("Currency")
-                        .IsRequired()
+                    b.Property<string>("Department")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Description")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("Model")
-                        .IsRequired()
+                    b.Property<string>("Detachable")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("EyewearType")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Features")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("FrameColor")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("FrameMaterial")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Functionality")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("GPS")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("Gender")
+                        .HasColumnType("int");
+
+                    b.Property<string>("ItemType")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Language")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("LensAttributes")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("LensColor")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("LensFeatures")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("LensHeight")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("LensMaterial")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("LensWidth")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("MeasurementScales")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Mechanism")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ModelNumber")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("MovementType")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("MultiFace")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("NetworkMode")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Origin")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool?>("PackageIncluded")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("PlaceOfOrigin")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<decimal>("Price")
                         .HasColumnType("decimal(18,2)");
 
-                    b.Property<string>("ReturnPolicy")
-                        .IsRequired()
+                    b.Property<string>("RAM")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("Seller")
-                        .IsRequired()
+                    b.Property<string>("ROM")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("RearCamera")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("RemovableBattery")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Resolution")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ScreenMaterial")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ScreenShape")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ScreenSize")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("SetType")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("ShippingMethod")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("ShippingTime")
-                        .HasColumnType("int");
+                    b.Property<string>("SimCardSlot")
+                        .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("StockQuantity")
-                        .HasColumnType("int");
+                    b.Property<string>("StrapMaterial")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Style")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("SuitableFaceShapes")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("SunglassesStyle")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("System")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Title")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("Touchscreen")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("TransmissionDistance")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Transmitter")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Type")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<DateTime>("UpdatedAt")
                         .HasColumnType("datetime2");
 
-                    b.Property<string>("Warranty")
-                        .IsRequired()
+                    b.Property<string>("UsageScope")
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Use")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("WaterproofRating")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Weight")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("WiFi")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("WorkingHours")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("quantity")
+                        .HasColumnType("int");
 
                     b.HasKey("Id");
 
@@ -150,11 +337,44 @@ namespace AliExpress.Context.Migrations
                     b.Property<int>("CategoryId")
                         .HasColumnType("int");
 
+                    b.Property<int?>("SubcategoryId")
+                        .HasColumnType("int");
+
                     b.HasKey("ProductId", "CategoryId");
 
                     b.HasIndex("CategoryId");
 
+                    b.HasIndex("SubcategoryId");
+
                     b.ToTable("ProductCategories");
+                });
+
+            modelBuilder.Entity("AliExpress.Models.Subcategory", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("CategoryId")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime>("CreatedAt")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("UpdatedAt")
+                        .HasColumnType("datetime2");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("CategoryId");
+
+                    b.ToTable("Subcategory");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRole", b =>
@@ -359,15 +579,6 @@ namespace AliExpress.Context.Migrations
                     b.ToTable("AspNetUserTokens", (string)null);
                 });
 
-            modelBuilder.Entity("AliExpress.Models.Category", b =>
-                {
-                    b.HasOne("AliExpress.Models.Category", "ParentCategory")
-                        .WithMany("Subcategories")
-                        .HasForeignKey("ParentCategoryId");
-
-                    b.Navigation("ParentCategory");
-                });
-
             modelBuilder.Entity("AliExpress.Models.Images", b =>
                 {
                     b.HasOne("AliExpress.Models.Product", "Product")
@@ -393,9 +604,24 @@ namespace AliExpress.Context.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
+                    b.HasOne("AliExpress.Models.Subcategory", null)
+                        .WithMany("ProductCategories")
+                        .HasForeignKey("SubcategoryId");
+
                     b.Navigation("Category");
 
                     b.Navigation("Product");
+                });
+
+            modelBuilder.Entity("AliExpress.Models.Subcategory", b =>
+                {
+                    b.HasOne("AliExpress.Models.Category", "Category")
+                        .WithMany("Subcategories")
+                        .HasForeignKey("CategoryId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Category");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
@@ -460,6 +686,11 @@ namespace AliExpress.Context.Migrations
                 {
                     b.Navigation("Imag");
 
+                    b.Navigation("ProductCategories");
+                });
+
+            modelBuilder.Entity("AliExpress.Models.Subcategory", b =>
+                {
                     b.Navigation("ProductCategories");
                 });
 #pragma warning restore 612, 618

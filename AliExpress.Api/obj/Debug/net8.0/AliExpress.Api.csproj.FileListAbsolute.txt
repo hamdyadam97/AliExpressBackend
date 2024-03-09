@@ -1,0 +1,455 @@
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\appsettings.Development.json
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\appsettings.json
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\AliExpress.Api.staticwebassets.runtime.json
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\AliExpress.Api.exe
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\AliExpress.Api.deps.json
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\AliExpress.Api.runtimeconfig.json
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\AliExpress.Api.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\AliExpress.Api.pdb
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\Azure.Core.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\Azure.Identity.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\Humanizer.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\System.CodeDom.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\System.Memory.Data.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\AliExpress.Context.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\AliExpress.Models.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\AliExpress.Context.pdb
+F:\Ail_Express\AliExpress\AliExpress.Api\bin\Debug\net8.0\AliExpress.Models.pdb
+F:\Ail_Express\AliExpress\AliExpress.Api\obj\Debug\net8.0\AliExpress.Api.csproj.AssemblyReference.cache
+F:\Ail_Express\AliExpress\AliExpress.Api\obj\Debug\net8.0\AliExpress.Api.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ail_Express\AliExpress\AliExpress.Api\obj\Debug\net8.0\AliExpress.Api.AssemblyInfoInputs.cache
+F:\Ail_Express\AliExpress\AliExpress.Api\obj\Debug\net8.0\AliExpress.Api.AssemblyInfo.cs
+F:\Ail_Express\AliExpress\AliExpress.Api\obj\Debug\net8.0\AliExpress.Api.csproj.CoreCompileInputs.cache
+F:\Ail_Express\AliExpress\AliExpress.Api\obj\Debug\net8.0\AliExpress.Api.MvcApplicationPartsAssemblyInfo.cs
+F:\Ail_Express\AliExpress\AliExpress.Api\obj\Debug\net8.0\AliExpress.Api.MvcApplicationPartsAssemblyInfo.cache
+F:\Ail_Express\AliExpress\AliExpress.Api\obj\Debug\net8.0\AliExpress.Api.sourcelink.json
+F:\Ail_Express\AliExpress\AliExpress.Api\obj\Debug\net8.0\staticwebassets.build.json
+F:\Ail_Express\AliExpress\AliExpress.Api\obj\Debug\net8.0\staticwebassets.development.json
+F:\Ail_Express\AliExpress\AliExpress.Api\obj\Debug\net8.0\staticwebassets\msbuild.AliExpress.Api.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Ail_Express\AliExpress\AliExpress.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.AliExpress.Api.props
+F:\Ail_Express\AliExpress\AliExpress.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AliExpress.Api.props
+F:\Ail_Express\AliExpress\AliExpress.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AliExpress.Api.props
+F:\Ail_Express\AliExpress\AliExpress.Api\obj\Debug\net8.0\staticwebassets.pack.json
+F:\Ail_Express\AliExpress\AliExpress.Api\obj\Debug\net8.0\scopedcss\bundle\AliExpress.Api.styles.css
+F:\Ail_Express\AliExpress\AliExpress.Api\obj\Debug\net8.0\AliExpress.Api.csproj.CopyComplete
+F:\Ail_Express\AliExpress\AliExpress.Api\obj\Debug\net8.0\AliExpress.Api.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\obj\Debug\net8.0\refint\AliExpress.Api.dll
+F:\Ail_Express\AliExpress\AliExpress.Api\obj\Debug\net8.0\AliExpress.Api.pdb
+F:\Ail_Express\AliExpress\AliExpress.Api\obj\Debug\net8.0\AliExpress.Api.genruntimeconfig.cache
+F:\Ail_Express\AliExpress\AliExpress.Api\obj\Debug\net8.0\ref\AliExpress.Api.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\appsettings.Development.json
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\appsettings.json
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\AliExpress.Api.staticwebassets.runtime.json
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\AliExpress.Api.exe
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\AliExpress.Api.deps.json
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\AliExpress.Api.runtimeconfig.json
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\AliExpress.Api.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\AliExpress.Api.pdb
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Azure.Core.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Azure.Identity.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Humanizer.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\System.CodeDom.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\System.Memory.Data.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\AliExpress.Context.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\AliExpress.Models.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\AliExpress.Context.pdb
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\AliExpress.Models.pdb
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\obj\Debug\net8.0\AliExpress.Api.csproj.AssemblyReference.cache
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\obj\Debug\net8.0\AliExpress.Api.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\obj\Debug\net8.0\AliExpress.Api.AssemblyInfoInputs.cache
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\obj\Debug\net8.0\AliExpress.Api.AssemblyInfo.cs
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\obj\Debug\net8.0\AliExpress.Api.csproj.CoreCompileInputs.cache
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\obj\Debug\net8.0\AliExpress.Api.MvcApplicationPartsAssemblyInfo.cs
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\obj\Debug\net8.0\AliExpress.Api.MvcApplicationPartsAssemblyInfo.cache
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\obj\Debug\net8.0\AliExpress.Api.sourcelink.json
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\obj\Debug\net8.0\staticwebassets.build.json
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\obj\Debug\net8.0\staticwebassets.development.json
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\obj\Debug\net8.0\staticwebassets\msbuild.AliExpress.Api.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.AliExpress.Api.props
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AliExpress.Api.props
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AliExpress.Api.props
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\obj\Debug\net8.0\staticwebassets.pack.json
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\obj\Debug\net8.0\scopedcss\bundle\AliExpress.Api.styles.css
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\obj\Debug\net8.0\AliExpress.Api.csproj.CopyComplete
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\obj\Debug\net8.0\AliExpress.Api.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\obj\Debug\net8.0\refint\AliExpress.Api.dll
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\obj\Debug\net8.0\AliExpress.Api.pdb
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\obj\Debug\net8.0\AliExpress.Api.genruntimeconfig.cache
+F:\Ail_Express\AliExpressBackend\AliExpress.Api\obj\Debug\net8.0\ref\AliExpress.Api.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\appsettings.Development.json
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\appsettings.json
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\AliExpress.Api.staticwebassets.runtime.json
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\AliExpress.Api.exe
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\AliExpress.Api.deps.json
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\AliExpress.Api.runtimeconfig.json
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\AliExpress.Api.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\AliExpress.Api.pdb
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\AutoMapper.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Azure.Core.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Azure.Identity.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Humanizer.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\System.CodeDom.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\AliExpress.Application.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\AliExpress.Context.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\AliExpress.Dtos.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\AliExpress.Models.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\AliExpress.Application.pdb
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\AliExpress.Context.pdb
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\AliExpress.Dtos.pdb
+E:\Final Project\AliExpressBackend\AliExpress.Api\bin\Debug\net8.0\AliExpress.Models.pdb
+E:\Final Project\AliExpressBackend\AliExpress.Api\obj\Debug\net8.0\AliExpress.Api.csproj.AssemblyReference.cache
+E:\Final Project\AliExpressBackend\AliExpress.Api\obj\Debug\net8.0\AliExpress.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Final Project\AliExpressBackend\AliExpress.Api\obj\Debug\net8.0\AliExpress.Api.AssemblyInfoInputs.cache
+E:\Final Project\AliExpressBackend\AliExpress.Api\obj\Debug\net8.0\AliExpress.Api.AssemblyInfo.cs
+E:\Final Project\AliExpressBackend\AliExpress.Api\obj\Debug\net8.0\AliExpress.Api.csproj.CoreCompileInputs.cache
+E:\Final Project\AliExpressBackend\AliExpress.Api\obj\Debug\net8.0\AliExpress.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\Final Project\AliExpressBackend\AliExpress.Api\obj\Debug\net8.0\AliExpress.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\Final Project\AliExpressBackend\AliExpress.Api\obj\Debug\net8.0\AliExpress.Api.sourcelink.json
+E:\Final Project\AliExpressBackend\AliExpress.Api\obj\Debug\net8.0\staticwebassets.build.json
+E:\Final Project\AliExpressBackend\AliExpress.Api\obj\Debug\net8.0\staticwebassets.development.json
+E:\Final Project\AliExpressBackend\AliExpress.Api\obj\Debug\net8.0\staticwebassets\msbuild.AliExpress.Api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Final Project\AliExpressBackend\AliExpress.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.AliExpress.Api.props
+E:\Final Project\AliExpressBackend\AliExpress.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AliExpress.Api.props
+E:\Final Project\AliExpressBackend\AliExpress.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AliExpress.Api.props
+E:\Final Project\AliExpressBackend\AliExpress.Api\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Final Project\AliExpressBackend\AliExpress.Api\obj\Debug\net8.0\scopedcss\bundle\AliExpress.Api.styles.css
+E:\Final Project\AliExpressBackend\AliExpress.Api\obj\Debug\net8.0\AliExpress.Api.csproj.CopyComplete
+E:\Final Project\AliExpressBackend\AliExpress.Api\obj\Debug\net8.0\AliExpress.Api.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\obj\Debug\net8.0\refint\AliExpress.Api.dll
+E:\Final Project\AliExpressBackend\AliExpress.Api\obj\Debug\net8.0\AliExpress.Api.pdb
+E:\Final Project\AliExpressBackend\AliExpress.Api\obj\Debug\net8.0\AliExpress.Api.genruntimeconfig.cache
+E:\Final Project\AliExpressBackend\AliExpress.Api\obj\Debug\net8.0\ref\AliExpress.Api.dll
