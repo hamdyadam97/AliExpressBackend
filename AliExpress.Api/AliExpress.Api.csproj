@@ -24,6 +24,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\AliExpress.Application\AliExpress.Application.csproj" />
     <ProjectReference Include="..\AliExpress.Context\AliExpress.Context.csproj" />
   </ItemGroup>
 

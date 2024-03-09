@@ -100,6 +100,6 @@ namespace AliExpress.Models
 
         public ICollection<ProductCategory> ProductCategories { get; set; }
 
-        public ICollection<Images> Imag { get; set; }
+        public ICollection<Images> Images { get; set; }
     }
 }

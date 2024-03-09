@@ -1,4 +1,5 @@
 
+using AliExpress.Application.Mapper;
 using AliExpress.Context;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -23,6 +24,11 @@ namespace AliExpress.Api
             });
             builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
                 .AddEntityFrameworkStores<AliExpressContext>();
+
+            builder.Services.AddAutoMapper(M =>M.AddProfile(new MappingProduct()));
+            builder.Services.AddAutoMapper(M => M.AddProfile(typeof(MappingCategory)));
+
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
