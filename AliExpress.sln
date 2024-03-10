@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AliExpress.Context", "AliEx
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AliExpress.Api", "AliExpress.Api\AliExpress.Api.csproj", "{7A007724-34A5-46D7-824A-A600FB16B9A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AliExpress.Application", "AliExpress.Application\AliExpress.Application.csproj", "{65589FCB-3B44-42F1-8F55-50F3EA358474}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AliExpress.Application", "AliExpress.Application\AliExpress.Application.csproj", "{65589FCB-3B44-42F1-8F55-50F3EA358474}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AliExpress.Dtos", "AliExpress.Dtos\AliExpress.Dtos.csproj", "{A212D53B-E207-4423-ABDA-73A0995F7C2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AliExpress.Dtos", "AliExpress.Dtos\AliExpress.Dtos.csproj", "{A212D53B-E207-4423-ABDA-73A0995F7C2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AliExpress.Infrastructure", "AliExpress.Infrastructure\AliExpress.Infrastructure.csproj", "{4C5FFDCB-A473-46DC-B573-DCFF60DC14DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{A212D53B-E207-4423-ABDA-73A0995F7C2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A212D53B-E207-4423-ABDA-73A0995F7C2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A212D53B-E207-4423-ABDA-73A0995F7C2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C5FFDCB-A473-46DC-B573-DCFF60DC14DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C5FFDCB-A473-46DC-B573-DCFF60DC14DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C5FFDCB-A473-46DC-B573-DCFF60DC14DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C5FFDCB-A473-46DC-B573-DCFF60DC14DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
