@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace AliExpress.Infrastructure
 {
-    public class Repository<TEntity, Tid> : IRepository<TEntity, Tid> where TEntity : class
+    public class Repository<TEntity, Tid> : IRepository<TEntity, Tid> where TEntity : BaseEntity
     {
         private readonly AliExpressContext _aliExpressContext;
         private readonly DbSet<TEntity> _Dbset;
