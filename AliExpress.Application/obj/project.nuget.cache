@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "Mfbo35UVsWzOJIzc7+6+6GVbjt4SpR29RcY2Sz+SxqyPKwTuCiRdow7XQ/7W1mHpEqZMBvV5nsBrxNVrs2037Q==",
+  "dgSpecHash": "WilTgs6/q3TZZvrtJFHYhV8K2Mb0tFdr6a65cXUH76JhGGeSSvjGubVNHgJLwN+H2CQp5hw4hef4/NF18pzpmA==",
   "success": true,
-  "projectFilePath": "E:\\Fianl\\AliExpressBackend\\AliExpress.Application\\AliExpress.Application.csproj",
+  "projectFilePath": "F:\\Ail_Express\\AliExpressBackend\\AliExpress.Application\\AliExpress.Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\DELL\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
-    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
-    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
-    "C:\\Users\\DELL\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "C:\\Users\\7amdy\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\7amdy\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\7amdy\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\7amdy\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\7amdy\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
