@@ -1,0 +1,12 @@
+E:\Fianl\AliExpressBackend\AliExpress.Dtos\bin\Debug\net8.0\AliExpress.Dtos.deps.json
+E:\Fianl\AliExpressBackend\AliExpress.Dtos\bin\Debug\net8.0\AliExpress.Dtos.dll
+E:\Fianl\AliExpressBackend\AliExpress.Dtos\bin\Debug\net8.0\AliExpress.Dtos.pdb
+E:\Fianl\AliExpressBackend\AliExpress.Dtos\obj\Debug\net8.0\AliExpress.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fianl\AliExpressBackend\AliExpress.Dtos\obj\Debug\net8.0\AliExpress.Dtos.AssemblyInfoInputs.cache
+E:\Fianl\AliExpressBackend\AliExpress.Dtos\obj\Debug\net8.0\AliExpress.Dtos.AssemblyInfo.cs
+E:\Fianl\AliExpressBackend\AliExpress.Dtos\obj\Debug\net8.0\AliExpress.Dtos.csproj.CoreCompileInputs.cache
+E:\Fianl\AliExpressBackend\AliExpress.Dtos\obj\Debug\net8.0\AliExpress.Dtos.sourcelink.json
+E:\Fianl\AliExpressBackend\AliExpress.Dtos\obj\Debug\net8.0\AliExpress.Dtos.dll
+E:\Fianl\AliExpressBackend\AliExpress.Dtos\obj\Debug\net8.0\refint\AliExpress.Dtos.dll
+E:\Fianl\AliExpressBackend\AliExpress.Dtos\obj\Debug\net8.0\AliExpress.Dtos.pdb
+E:\Fianl\AliExpressBackend\AliExpress.Dtos\obj\Debug\net8.0\ref\AliExpress.Dtos.dll
