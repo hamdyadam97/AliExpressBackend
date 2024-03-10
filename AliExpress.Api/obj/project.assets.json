@@ -2,6 +2,22 @@
   "version": 3,
   "targets": {
     "net8.0": {
+      "AutoMapper/13.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "compile": {
+          "lib/net6.0/AutoMapper.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/AutoMapper.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Azure.Core/1.35.0": {
         "type": "package",
         "dependencies": {
@@ -1739,6 +1755,21 @@
           }
         }
       },
+      "AliExpress.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "AliExpress.Dtos": "1.0.0",
+          "AliExpress.Models": "1.0.0",
+          "AutoMapper": "13.0.1"
+        },
+        "compile": {
+          "bin/placeholder/AliExpress.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AliExpress.Application.dll": {}
+        }
+      },
       "AliExpress.Context/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -1755,6 +1786,16 @@
           "bin/placeholder/AliExpress.Context.dll": {}
         }
       },
+      "AliExpress.Dtos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/AliExpress.Dtos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AliExpress.Dtos.dll": {}
+        }
+      },
       "AliExpress.Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -1768,6 +1809,21 @@
     }
   },
   "libraries": {
+    "AutoMapper/13.0.1": {
+      "sha512": "/Fx1SbJ16qS7dU4i604Sle+U9VLX+WSNVJggk6MupKVkYvvBm4XqYaeFuf67diHefHKHs50uQIS2YEDFhPCakQ==",
+      "type": "package",
+      "path": "automapper/13.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "automapper.13.0.1.nupkg.sha512",
+        "automapper.nuspec",
+        "icon.png",
+        "lib/net6.0/AutoMapper.dll",
+        "lib/net6.0/AutoMapper.xml"
+      ]
+    },
     "Azure.Core/1.35.0": {
       "sha512": "hENcx03Jyuqv05F4RBEPbxz29UrM3Nbhnr6Wl6NQpoU9BCIbL3XLentrxDCTrH54NLS11Exxi/o8MYgT/cnKFA==",
       "type": "package",
@@ -4927,10 +4983,20 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "AliExpress.Application/1.0.0": {
+      "type": "project",
+      "path": "../AliExpress.Application/AliExpress.Application.csproj",
+      "msbuildProject": "../AliExpress.Application/AliExpress.Application.csproj"
+    },
     "AliExpress.Context/1.0.0": {
       "type": "project",
       "path": "../AliExpress.Context/AliExpress.Context.csproj",
       "msbuildProject": "../AliExpress.Context/AliExpress.Context.csproj"
+    },
+    "AliExpress.Dtos/1.0.0": {
+      "type": "project",
+      "path": "../AliExpress.Dtos/AliExpress.Dtos.csproj",
+      "msbuildProject": "../AliExpress.Dtos/AliExpress.Dtos.csproj"
     },
     "AliExpress.Models/1.0.0": {
       "type": "project",
@@ -4940,6 +5006,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "AliExpress.Application >= 1.0.0",
       "AliExpress.Context >= 1.0.0",
       "Microsoft.AspNetCore.Identity.UI >= 8.0.2",
       "Microsoft.EntityFrameworkCore >= 8.0.2",
@@ -4956,11 +5023,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Ail_Express\\AliExpressBackend\\AliExpress.Api\\AliExpress.Api.csproj",
+      "projectUniqueName": "C:\\Users\\7amdy\\Downloads\\AliExpressBackend\\AliExpressBackend\\AliExpress.Api\\AliExpress.Api.csproj",
       "projectName": "AliExpress.Api",
-      "projectPath": "F:\\Ail_Express\\AliExpressBackend\\AliExpress.Api\\AliExpress.Api.csproj",
+      "projectPath": "C:\\Users\\7amdy\\Downloads\\AliExpressBackend\\AliExpressBackend\\AliExpress.Api\\AliExpress.Api.csproj",
       "packagesPath": "C:\\Users\\7amdy\\.nuget\\packages\\",
-      "outputPath": "F:\\Ail_Express\\AliExpressBackend\\AliExpress.Api\\obj\\",
+      "outputPath": "C:\\Users\\7amdy\\Downloads\\AliExpressBackend\\AliExpressBackend\\AliExpress.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4982,8 +5049,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "F:\\Ail_Express\\AliExpressBackend\\AliExpress.Context\\AliExpress.Context.csproj": {
-              "projectPath": "F:\\Ail_Express\\AliExpressBackend\\AliExpress.Context\\AliExpress.Context.csproj"
+            "C:\\Users\\7amdy\\Downloads\\AliExpressBackend\\AliExpressBackend\\AliExpress.Application\\AliExpress.Application.csproj": {
+              "projectPath": "C:\\Users\\7amdy\\Downloads\\AliExpressBackend\\AliExpressBackend\\AliExpress.Application\\AliExpress.Application.csproj"
+            },
+            "C:\\Users\\7amdy\\Downloads\\AliExpressBackend\\AliExpressBackend\\AliExpress.Context\\AliExpress.Context.csproj": {
+              "projectPath": "C:\\Users\\7amdy\\Downloads\\AliExpressBackend\\AliExpressBackend\\AliExpress.Context\\AliExpress.Context.csproj"
             }
           }
         }
