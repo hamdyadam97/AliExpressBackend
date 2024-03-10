@@ -78,6 +78,18 @@
     </div>
 </div>
 
+
+<!-- Your existing login form here -->
+@if (Model.ModelState.TryGetValue(string.Empty, out var errors) && errors.Errors.Count > 0)
+{
+    <div class="alert alert-danger" role="alert">
+        @errors.Errors[0].ErrorMessage
+    </div>
+}
+
+
+
+
 @section Scripts {
     <partial name="_ValidationScriptsPartial" />
 }

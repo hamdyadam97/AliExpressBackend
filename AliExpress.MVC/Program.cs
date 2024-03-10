@@ -54,6 +54,16 @@ namespace AliExpress.MVC
 
             app.MapRazorPages(); ///
 
+
+
+
+
+
+
+
+
+
+
             app.UseAuthentication();
             app.UseAuthorization();
 

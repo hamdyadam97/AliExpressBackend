@@ -1,4 +1,5 @@
 using AliExpress.MVC.Models;
+using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
@@ -31,8 +32,40 @@ namespace AliExpress.MVC.Controllers
         public IActionResult Index()
         {
             return View("~/Views/DashBoards/Index.cshtml");
+            //return View();
 
         }
+
+
+        public IActionResult RedirectToLogin()
+        {
+            // Redirect to the login action in the Identity/Account controller
+            return RedirectToAction("Login", "Account", new { area = "Identity" });
+        }
+
+
+
+        public async Task<IActionResult> LogOut()
+        {
+            await HttpContext.SignOutAsync();
+
+            // Generate the URL for the login action in the Identity/Account controller
+            var loginUrl = Url.Action("Login", "Account", new { area = "Identity" });
+
+            // Redirect to the login page
+            return Redirect(loginUrl);
+        }
+
+
+
+
+        //public IActionResult logout2()
+        //{
+        //    return View("~/Areas/Identity/Pages/Account/Logout.cshtml");
+        //}
+
+
+
 
 
         public IActionResult Privacy()
